@@ -5,6 +5,8 @@ Original available [here](http://ludumdare.com/compo/ludum-dare-22/?action=previ
 
 I got lazy, so it depends on OpenFL and HaxeFlixel for rendering, keyboard, etc. It should be fairly easy to remove these if they're not available - rendering is to a simple array of pixels.
 
+SWF [here](http://sta.sh/0a766k53jrs).
+
 #### Why?
 
 Ported for fun & learning intermittently over ~7 days. Not a perfect port - I have added extra classes and used hacks to reconcile differences between Haxe and Java.
