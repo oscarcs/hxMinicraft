@@ -75,7 +75,7 @@ class OreTile extends Tile
 			{
 				level.setData(x, y, damage);
 			}
-			for (i in 0...color)
+			for (i in 0...count)
 			{
 				level.add(new ItemEntity(new ResourceItem(toDrop), x * 16 + random.nextInt(10) + 3, y * 16 + random.nextInt(10) + 3));
 			}
